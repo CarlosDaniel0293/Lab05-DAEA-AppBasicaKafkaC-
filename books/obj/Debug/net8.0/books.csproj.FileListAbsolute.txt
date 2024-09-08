@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\bin\Debug\net8.0\books.deps.json
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\bin\Debug\net8.0\books.dll
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\bin\Debug\net8.0\books.pdb
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.sourcelink.json
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.dll
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\refint\books.dll
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\books.pdb
+C:\Users\user\OneDrive\Documentos\Empresariales - Labs\Lab05\books\obj\Debug\net8.0\ref\books.dll

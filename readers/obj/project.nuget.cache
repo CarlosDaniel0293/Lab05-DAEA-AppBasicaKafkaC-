@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1IluoCW3CM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documentos\\Empresariales - Labs\\Lab05\\readers\\readers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\confluent.kafka\\2.5.3\\confluent.kafka.2.5.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\librdkafka.redist\\2.5.3\\librdkafka.redist.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

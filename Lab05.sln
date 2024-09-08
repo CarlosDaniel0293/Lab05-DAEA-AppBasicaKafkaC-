@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "books", "books\books.csproj", "{F27277F2-520D-473C-86C8-8266F2B174D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "publisher", "publisher\publisher.csproj", "{90E6F5E4-5AD2-4F08-8B09-8860288DD0B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "readers", "readers\readers.csproj", "{96C4D035-E783-474B-A49B-6B3082D01AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27277F2-520D-473C-86C8-8266F2B174D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27277F2-520D-473C-86C8-8266F2B174D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27277F2-520D-473C-86C8-8266F2B174D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27277F2-520D-473C-86C8-8266F2B174D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E6F5E4-5AD2-4F08-8B09-8860288DD0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E6F5E4-5AD2-4F08-8B09-8860288DD0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E6F5E4-5AD2-4F08-8B09-8860288DD0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E6F5E4-5AD2-4F08-8B09-8860288DD0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C4D035-E783-474B-A49B-6B3082D01AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C4D035-E783-474B-A49B-6B3082D01AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C4D035-E783-474B-A49B-6B3082D01AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C4D035-E783-474B-A49B-6B3082D01AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885E53CD-AC10-4FBE-BB53-59F877855C5C}
+	EndGlobalSection
+EndGlobal
